@@ -1,0 +1,40 @@
+.searchBar {
+  text-align: center;
+}
+
+.searchBar input[type="submit"] {
+  background-color: rgb(248, 234, 171);
+  width: 15%;
+  margin-right: 5px;
+}
+
+.searchBar form {
+  width: 100%;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #faaaaa;
+}
+
+.searchBar input[type="text"] {
+  border-radius: 5px;
+  padding: 5px 10px;
+  color: rgb(220, 221, 226);
+  font-size: 1.3em;
+  border: 2px solid hsl(175, 44%, 28%);
+  width: 80%;
+  margin-right: 5px;
+}
+App {
+  font-family: sans-serif;
+  text-align: center;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Calibri, Helvetica, serif, sans-serif;
+  line-height: 1.4;
+}
+
+
